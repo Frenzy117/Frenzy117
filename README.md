@@ -1,9 +1,9 @@
 # 🔥 Hi! I'm Aman Saxena
-👨🏻‍💻 A software engineer and computer engineer excited about my tech journey.<br>👨🏻‍🎓 Studied computer engineering at Rutgers University, USA<br>📚 I’m currently learning SpringBoot, React Native, and AWS<br>💬 Ask me about React, Google Cloud, Full Stack Development<br>⚡ My learning time complexity: O(log(n)), and space complexity: O(n!)<br>🎼 I love playing music and making edits 🎥
+👨🏻‍💻 A software engineer and computer engineer excited about my tech journey.<br>👨🏻‍🎓 Studied computer engineering at Rutgers University, USA<br>📚 I’m currently learning SpringBoot, React Native, and AWS<br>💬 Ask me about React, Google Cloud, Full Stack Development<br>📱 Find all about me at [my portfolio](https://aman-dev-13a2b.web.app/) <be>⚡ My learning time complexity: O(log(n)), and space complexity: O(n!)<br>🎼 I love playing music and making edits 🎥
 
 
 ## 🌐 Socials:
-[Portfolio](https://aman-dev-13a2b.web.app/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-saxena-ba000b212) 
 
 # 💻 Tech Stack:
