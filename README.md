@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💪🏻 Hi! I'm Aman Saxena
 👨🏻‍💻 A software engineer and computer engineer excited about my tech journey.<br>👨🏻‍🎓 Studied computer engineering at Rutgers University, USA<br>📚 I’m currently learning SpringBoot, React Native, and AWS<br>💬 Ask me about React, Google Cloud, Full Stack Development<br>⚡ My learning time complexity: O(log(n)), and space complexity: O(n!)<br>🎼 I love playing music and making edits 🎥
 
 
