@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, I'm Aman Saxena</h1>
-<h3 align="center">A passionate software developer & computer engineer.</h3>
+<h3 align="center">A passionate software engineer & computer engineer.</h3>
 
 - 🌱 I’m currently learning **React Native, AWS, ThreeJS, and Springboot**
 
-- 👨‍💻 All of my projects are available at [https://aman-dev-13a2b.web.app/](https://aman-dev-13a2b.web.app/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://aman-dev-13a2b.web.app/)
 
 - 💬 Ask me about **React, Google Cloud, and PostgreSQL**
 
-- 📫 How to reach me **amansaxena2002@gmail.com**
+- 📫 Reach Me at **amansaxena2002@gmail.com**
 
 - ⚡ Fun fact **My humble learning time complexity = O(log(n)). My learning space complexity = O(n^2)**
 
