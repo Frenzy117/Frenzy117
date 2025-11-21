@@ -1,5 +1,5 @@
 # 🔥 Hi! I'm Aman Saxena
-👨🏻‍💻 A engineer software, computers, AI and I couldn't be more excited about my tech journey.<br>👨🏻‍🎓 Studied computer engineering at Rutgers University, USA<br>📚 I’m currently learning Natural Language Processing (NLP), DevOps, and AWS<br>💬 Ask me about React, Google Cloud, Full Stack Development<br>📱 Find all about me at [my portfolio](https://aman-dev-13a2b.web.app/) <br>⚡ My learning time complexity: O(log(n)), and space complexity: O(n!)<br>🎼 I love playing music and making edits 🎥
+👨🏻‍💻 A software, computer, and aspiring AI engineer. I couldn't be more excited about my tech journey.<br>👨🏻‍🎓 Studied computer engineering at Rutgers University, USA<br>📚 I’m currently learning Natural Language Processing (NLP), DevOps, and AWS<br>💬 Ask me about React, Google Cloud, Full Stack Development<br>📱 Find all about me at [my portfolio](https://aman-dev-13a2b.web.app/) <br>⚡ My learning time complexity: O(log(n)), and space complexity: O(n!)<br>🎼 I love playing music and making edits 🎥
 
 
 ## 🌐 Socials:
